@@ -6,6 +6,8 @@
 👩🏻‍🎓 Studying Computer Science at the University of Mumbai, Maharashtra<br/>
 💻 I enjoy coding, Bug Hunting, building Websites and sharing what I learn with the tech community.<br/>
 💭 Currently learning and practicing about DSA and AI.<br/>
+📄 [Resume](https://github.com/Aryapawar92/Aryapawar92/blob/main/AryaResume.pdf)
+
 
 <!--Tech Stack-->
 # 💻 Tech Stack
